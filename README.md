@@ -6,9 +6,7 @@ I'm an Engineer-turned-PM-turned indie product builder, vibe-coding solutions to
 
 ### 🔭 currently building
 
-**Keel** — a personal AI chief of staff for your Mac.
-
-Keel maintains a living knowledge base of your work, answers questions about it, and remembers everything.
+A personal AI chief of staff for your Mac.
 
 > *Built in Electron + TypeScript. Powered by Claude.*
 
