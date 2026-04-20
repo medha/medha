@@ -15,9 +15,9 @@ A personal AI chief of staff for your Mac.
 ### 🧬 background
 
 ```
-2010–2015  →  software engineer @ Orion Health, MyFitnessPal
-2015–2024  →  product manager @ MyFitnessPal, UnderArmour, Groupon, Meta (~7 years). 
-2025–now   →  indie product builder
+2010–2012  →  software engineer @ Orion Health, MyFitnessPal
+2013–2026  →  product manager @ MyFitnessPal, UnderArmour, Groupon, Meta (~7 years). 
+Now   →  indie product builder
 ```
 ---
 
