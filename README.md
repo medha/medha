@@ -1,12 +1,13 @@
 # Hey, I'm Medha 👋
 
-I'm an Engineer-turned-PM-turned indie product builder, vibe-coding solutions to problems I can't stop thinking about.
+I'm a software engineer -> turned product manager -> tunred indie product builder; vibe-coding solutions to problems I can't stop thinking about.
 
 ---
 
 ### 🔭 currently building
 
-A personal AI chief of staff for your Mac.
+Keel: A personal AI chief of staff for your Mac. 
+https://github.com/Keel-Labs/keel 
 
 > *Built in Electron + TypeScript. Powered by Claude.*
 
@@ -15,8 +16,10 @@ A personal AI chief of staff for your Mac.
 ### 🧬 background
 
 ```
-2010–2012  →  software engineer @ Orion Health, MyFitnessPal
-2013–2026  →  product manager @ MyFitnessPal, UnderArmour, Groupon, Meta (~7 years). 
+2010 → B.E. Software Engineering from The University of Auckland, New Zealand. 
+2010–2012  →  Software Engineer @ Orion Health, Auckland
+2013 → M.S. Software Management from Carnegie Mellon University.
+2013–2026  →  Product Manager @ MyFitnessPal, UnderArmour, Groupon, Meta (~7 years). 
 Now   →  indie product builder
 ```
 ---
@@ -25,6 +28,13 @@ Now   →  indie product builder
 
 - Building 0→1 products
 - Eng↔PM transition
+- Getting into FAANG, surviving FAANG, growing inside FAANG
+- Reorgs, job changes, promo cycles
+- Mental health, and pace-setting in high-intensity orgs
+- Working parenthood 
+- Leaving big tech to build something of your own
+
+Book a 1:1: https://topmate.io/medha_ghatikesh/
 
 ---
 
