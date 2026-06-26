@@ -24,20 +24,6 @@ Now   →  indie product builder
 ```
 ---
 
-### 💬 ask me about
-
-- Building 0→1 products
-- Eng↔PM transition
-- Getting into FAANG, surviving FAANG, growing inside FAANG
-- Reorgs, job changes, promo cycles
-- Mental health, and pace-setting in high-intensity orgs
-- Working parenthood 
-- Leaving big tech to build something of your own
-
-Book a 1:1: https://topmate.io/medha_ghatikesh/
-
----
-
 ### 📫 find me
 
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Ghatikesh)
