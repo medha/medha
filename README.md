@@ -1,6 +1,6 @@
 # Hey, I'm Medha 👋
 
-I'm a software engineer -> turned product manager -> tunred indie product builder; vibe-coding solutions to problems I can't stop thinking about.
+I'm a software engineer -> turned product manager -> tunred indie builder / solo founder; vibe-coding solutions to problems I can't stop thinking about.
 
 ---
 
@@ -26,14 +26,14 @@ https://tala.keel-labs.org/
 2010–2012  →  Software Engineer @ Orion Health, Auckland
 2013 → M.S. Software Management from Carnegie Mellon University.
 2013–2026  →  Product Manager @ MyFitnessPal, UnderArmour, Groupon, Meta (~7 years). 
-Now   →  indie product builder
+Now   →  indie builder / solo founder of Keel Labs
 ```
 ---
 
 ### 📫 find me
 
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Ghatikesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medhaghatikesh)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Ghatikesh)
 [![Website](https://img.shields.io/badge/website-%23000000.svg?style=flat&logo=safari&logoColor=white)](https://medium.com/@medhaforcebewithyou)
 [![Email](https://img.shields.io/badge/email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:medhaforcebewithyou@gmail.com)
 
