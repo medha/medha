@@ -6,16 +6,15 @@ I'm a software engineer -> turned product manager -> tunred indie builder / solo
 
 ### 🔭 currently building
 
-Keel: A personal AI chief of staff for your Mac. 
-http://keel-labs.org/ 
+**All my projects**: https://keel-labs.org/
 
+**Keel**: A personal AI chief of staff for your Mac. 
+https://keel.keel-labs.org/
 > *Built in Electron + TypeScript.*
 
-Tāla: An ephemeral listening platform for discovering and interacting with historic recordings. 
+**Tāla**: An ephemeral listening platform for discovering and interacting with historic recordings. 
 https://tala.keel-labs.org/
-
 > *Tracks are sourced from the Archive of Indian Music. Tāla does not own these recordings or their underlying rights.*
-
 
 ---
 
