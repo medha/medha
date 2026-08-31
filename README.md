@@ -8,6 +8,9 @@ I'm a software engineer -> turned product manager -> tunred indie builder / solo
 
 **All my projects**: https://keel-labs.org/
 
+**Nook**: Nook helps families track home systems, maintenance tasks, warranties, documents, and notes in one shared place.
+https://nook.keel-labs.org/
+
 **Keel**: A personal AI chief of staff for your Mac. 
 https://keel.keel-labs.org/
 > *Built in Electron + TypeScript.*
